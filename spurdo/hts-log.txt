@@ -1,0 +1,20 @@
+HTTrack3.49-2 launched on Fri, 22 Dec 2023 11:39:25 at https://spurdocoin.com/
+(winhttrack https://spurdocoin.com/ -O "/Users/tkatyal/websites/spurdo" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:41:14	Error: 	"Not Found" (404) at link https://spurdocoin.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/css/.../fonts/themify.eot? (from https://spurdocoin.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/css/themify.css?ver=1.0.5)
+11:41:14	Error: 	"Not Found" (404) at link https://spurdocoin.com/-negative.svg (from https://spurdocoin.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.11.0)
+11:41:14	Error: 	"Not Found" (404) at link https://spurdocoin.com/OPR/ (from https://spurdocoin.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.11.0)
+11:41:14	Error: 	"Not Found" (404) at link https://spurdocoin.com/Trident/ (from https://spurdocoin.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.8.1)
+11:41:14	Error: 	"Not Found" (404) at link https://spurdocoin.com/Edge/ (from https://spurdocoin.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.8.1)
+11:41:14	Error: 	"Not Found" (404) at link https://spurdocoin.com/Gecko/ (from https://spurdocoin.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.8.1)
+11:41:14	Error: 	"Not Found" (404) at link https://spurdocoin.com/Firefox/ (from https://spurdocoin.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.8.1)
+11:41:15	Error: 	"Not Found" (404) at link https://spurdocoin.com/Version/ (from https://spurdocoin.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.8.1)
+11:41:15	Error: 	"Not Found" (404) at link https://spurdocoin.com/version/ (from https://spurdocoin.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.8.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 50 seconds : 110 links scanned, 100 files written (7898770 bytes overall) [4498223 bytes received at 40892 bytes/sec], 5431483 bytes transferred using HTTP compression in 81 files, ratio 31%, 7.4 requests per connection
+(9 errors, 0 warnings, 0 messages)
